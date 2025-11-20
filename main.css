@@ -397,21 +397,14 @@ body {
     background-position: 1% 80%;
     }
 
-    .h1-center {
-
-    }
-
-    .h1-right {
-
-    }
-
     .h1 {
-        display: flex;
+        display: block;
         font-style: normal;
         font-size: 95px;
         font-weight: 200;
         margin-bottom: 30px;
-        margin-left: 10rem;
+        text-align: center;
+        margin-left: 0;
     }
 
     .h2 {
@@ -427,7 +420,7 @@ body {
     }
 
     .intro-title {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .intro {
